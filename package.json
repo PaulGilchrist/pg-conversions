@@ -1,0 +1,18 @@
+{
+    "author": "Paul Gilchrist",
+    "description": "Conversions JavaScript Library",
+    "homepage": "https://github.com/PaulGilchrist/pg-conversions.git",
+    "keywords": [
+        "pg-conversions",
+        "conversions",
+        "npm"
+    ],
+    "license": "MIT",
+    "main": "conversions",
+    "name": "pg-conversions",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaulGilchrist/pg-conversions.git"
+    },
+    "version": "1.0.1"
+}
